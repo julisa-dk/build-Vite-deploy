@@ -1,1 +1,2 @@
-# build-Vite-deploy
+# Install
+npm i react-icons
